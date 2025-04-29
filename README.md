@@ -1,5 +1,8 @@
 # Material de Estudo: Git e GitHub
 
+#### Playlist complementar:
+https://www.youtube.com/watch?v=FF1f4bKYhoo&list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj
+
 ---
 
 ## 1. O que é Git?
